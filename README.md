@@ -28,14 +28,18 @@ Here are some ideas to get you started:
 	 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black&color=yellow" />
   	<br>
    		<a href="https://solved.ac/taegeong">
-       			<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" />
-			<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-   		 </a>
+       		<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" />
+		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 	</div> 
  </div> 
 
+<span>
+	<img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm"/>
+	<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+	
+</span>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225)](https://github.com/taegyeong0225/github-readme-stats)
 
 <div align="center">
 	<br> 🎳 About Me 🎳 <br>
@@ -54,6 +58,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225&layout=compact" /> <img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true" />
 
 
