@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<br>
 <div align="center">
 	<div align="center">
     	 <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white" />
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 	</div> 
  </div> 
-
 <span>
 	<img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm"/>
 	<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
