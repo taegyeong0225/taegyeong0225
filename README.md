@@ -32,22 +32,25 @@ Here are some ideas to get you started:
 		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 	</div> 
  </div> 
-<span>
-	<img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm"/>
-	<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-	
-</span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225)](https://github.com/taegyeong0225/github-readme-stats)
-
-<div align="center">
+   <div align="center">
 	<br> 🎳 About Me 🎳 <br>
     <a class="insta" href="https://www.instagram.com/taegyeong0225">
         <img src="https://img.shields.io/badge/instagram-pink?style=flat&logo=instagram&logoColor=white"/>
     </a>
 </div>
 
+<span>
+	<img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm"/>
+	<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+	
+</span>
 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225)](https://github.com/taegyeong0225/github-readme-stats)
 
 
 
