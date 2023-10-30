@@ -28,6 +28,10 @@
     <a class="insta" href="https://www.instagram.com/taegyeong0225">
         <img src="https://img.shields.io/badge/instagram-pink?style=flat&logo=instagram&logoColor=white"/>
     </a>
+    <!-- email -->
+    <a class="email" href="202244042@itc.ac.kr">
+        <img src="https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white"/>
+    </a>
 </div>
 
 
