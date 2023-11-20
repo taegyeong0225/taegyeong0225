@@ -7,19 +7,20 @@
 <!-- -->
 <div align="center">
 	<!-- languege badge -->
-	<div align="center">
-    	 <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white" />
+    	 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/python-1572B6?style=flat&logo=python&logoColor=white" />
-   	 <img src="https://img.shields.io/badge/C%2B%2B-FF69B4?style=flat&logo=C%2B%2B&logoColor=white&color=pink" />
+   	 <img src="https://img.shields.io/badge/C-FF69B4?style=flat&logo=C%2B%2B&logoColor=white&color=pink" />
    	 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
    	 <img src="https://img.shields.io/badge/CSS3-1E90FF?style=flat&logo=CSS3&logoColor=white" />
-	 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black&color=yellow" />
-		<!-- 이유는 모르겠는데 br을 쓰면 한 줄 밑에 써짐, 백준 뱃지 및 깃허브 접속자 뱃지 -->
-		<br>
-   		<a href="https://solved.ac/taegeong">
-       		<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" />
-		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-	</div> 
+	 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black&color=yellow" />  
+	<!-- DB -->
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> <br>
+	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
+	<!-- solved.ac 뱃지 및 깃허브 접속자 뱃지 -->
+	<a href="https://solved.ac/taegeong">
+       	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" />
  </div> 
 
 <!-- about me -->
