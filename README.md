@@ -30,6 +30,7 @@
 	<a href="https://solved.ac/taegeong">
  	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
        	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" />
+	<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
  </div> 
 
 <!-- about me -->
@@ -55,37 +56,16 @@
 	<!-- 자주쓰는 언어 -->
 	<a href="https://github.com/taegyeong0225/github-readme-stats">
   	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225" alt="Top Languages"/>
+	</a>
 </a>
 
 </div>
 
 
 
-<!-- 기존 코드 !!! -->
-
-<!-- 깃허브 접속 캘린더 박스 & github tearbox & github stat 삭제
-	<img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm"/>
-	<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-	
- 	[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=taegeong)](https://solved.ac/taegeong) 
   
-  	<img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true" />  -->
-
-<!-- 자주쓰는 언어 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225)](https://github.com/taegyeong0225/github-readme-stats) -->
+  	
 
 
-<!--
-**taegyeong0225/taegyeong0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
