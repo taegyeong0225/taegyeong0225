@@ -44,14 +44,10 @@
         <img src="https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white"/>
     </a>
 </div>
-
-
-
-
-<!-- 깃허브 접속 캘린더 박스 & github tearbox & github stat -->
+<!-- 깃허브 접속 캘린더 박스 & github tearbox & github stat  -->
 <div align="center">
-	<a href="https://github.com/seondal"><img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm" alt="GitHub"/></a>
-	<a href="https://solved.ac/taegeong"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taegeong" alt="solved.ac tier"/></a>
+	<!-- <a href="https://github.com/seondal"><img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm" alt="GitHub"/></a>-->
+	<!-- <<a href="https://solved.ac/taegeong"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taegeong" alt="solved.ac tier"/></a>-->
 	<img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true" alt="GitHub Stats"/>
 	<!-- 자주쓰는 언어 -->
 	<a href="https://github.com/taegyeong0225/github-readme-stats">
