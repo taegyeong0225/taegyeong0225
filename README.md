@@ -1,6 +1,8 @@
 <!-- name--->
 <div align="center">
-	<h1>Hi there 👋</h1>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ffa4b3&height=300&section=header&text=HI,%20There!&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20github&descSize=30" />
+
+
 </div>
 
 
@@ -42,26 +44,23 @@
     <!-- email -->
     <a class="email" href="202244042@itc.ac.kr">
         <img src="https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white"/>
-    </a>
+    </a> <br>
+    <!-- attribute -->
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taegyeong0225&theme=whatsapp-light2&border_radius=4&background=40%2CEBEBEB%2CEBABB2" alt="GitHub Streak" /></a>
 </div>
+
+[![taegyeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taegyeong0225&bg_color=ffc0cb&color=000000&line=ffffff&point=ffa3b4)](https://github.com/taegyeong0225/github-readme-activity-graph)
+
+
 <!-- 깃허브 접속 캘린더 박스 & github tearbox & github stat  -->
-<div align="center">
- <a href="https://github.com/seondal"><img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm" alt="GitHub"/></a>
-<a href="https://solved.ac/taegeong"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taegeong" alt="solved.ac tier"/></a>
-	<img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true" alt="GitHub Stats"/>
-	<!-- 자주쓰는 언어 -->
-	<a href="https://github.com/taegyeong0225/github-readme-stats">
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225" alt="Top Languages"/>
-	</a>
-</a>
+<!-- <div align="center"> --> 
+<!-- <a href="https://github.com/seondal"><img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm" alt="GitHub"/></a> -->
+<!-- <a href="https://solved.ac/taegeong"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taegeong" alt="solved.ac tier"/></a> -->
+<!--	<img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true" alt="GitHub Stats"/> -->
 
-</div>
-
-
-
-  
-  	
-
-
-
+<!-- 자주쓰는 언어 -->
+ 
+<!--	<a href="https://github.com/taegyeong0225/github-readme-stats"> -->
+<!--  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225" alt="Top Languages"/> -->
+<!--	</a> </a></div> -->
 
