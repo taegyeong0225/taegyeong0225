@@ -1,27 +1,27 @@
 <!-- name--->
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ffa4b3&height=300&section=header&text=HI,%20There!&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Welcome%20to%20my%20github&descSize=30" />
-
-
 </div>
 
 
-<!-- -->
 <div align="center">
 	<!-- languege badge -->
     	 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/python-1572B6?style=flat&logo=python&logoColor=white" />
    	 <img src="https://img.shields.io/badge/C-FF69B4?style=flat&logo=C%2B%2B&logoColor=white&color=pink" /> <br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /> <br>
 	<!-- front end -->
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
    	<img src="https://img.shields.io/badge/CSS3-1E90FF?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black&color=yellow" />
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <br>
 <!-- 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
-	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> <br> -->
+	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> <br> --> 
 	<!-- DB -->
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+ 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /> <br>
 <!-- 	<img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white"> <br> -->
  	<!-- dd -->
 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
