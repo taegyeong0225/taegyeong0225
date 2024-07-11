@@ -1,4 +1,4 @@
-<!-- name--->
+<!-- header --->
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ffa4b3&height=300&section=header&text=HI,%20There!&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Welcome%20to%20my%20github&descSize=30" />
 </div>
@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
  	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" /> <br>
 <!-- 	<img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white"> <br> -->
- 	<!-- dd -->
+ 	<!-- etc -->
 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
@@ -49,7 +49,8 @@
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taegyeong0225&theme=whatsapp-light2&border_radius=4&background=40%2CEBEBEB%2CEBABB2" alt="GitHub Streak" /></a>
 </div>
 
-<div style="text-align: center;">
+<!-- snake -->
+<div align="center" style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
@@ -57,7 +58,9 @@
   </picture>
 </div>
 
-[![taegyeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taegyeong0225&bg_color=ffc0cb&color=000000&line=ffffff&point=ffa3b4)](https://github.com/taegyeong0225/github-readme-activity-graph)
+<a href="https://github.com/taegyeong0225/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=taegyeong0225&bg_color=ffc0cb&color=000000&line=ffffff&point=ffa3b4" alt="taegyeong's github activity graph">
+    </a>
 
 
 <!-- 깃허브 접속 캘린더 박스 & github tearbox & github stat  -->
