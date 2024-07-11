@@ -49,6 +49,14 @@
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taegyeong0225&theme=whatsapp-light2&border_radius=4&background=40%2CEBEBEB%2CEBABB2" alt="GitHub Streak" /></a>
 </div>
 
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/taegyeong0225/taegyeong0225/blob/output/ocean.gif" />
+  </picture>
+</div>
+
 [![taegyeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taegyeong0225&bg_color=ffc0cb&color=000000&line=ffffff&point=ffa3b4)](https://github.com/taegyeong0225/github-readme-activity-graph)
 
 
