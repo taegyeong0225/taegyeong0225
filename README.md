@@ -5,6 +5,14 @@
 
 <div align="center">
 
+<h2> 🎳 About Me 🎳 </h2>
+<a class="insta" href="https://www.instagram.com/taegyeong0225">
+	<img src="https://img.shields.io/badge/instagram-pink?style=flat&logo=instagram&logoColor=white"/>
+</a>
+<a class="email" href="202244042@itc.ac.kr">
+	<img src="https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white"/>
+</a> <br>
+    
 <h2>💻 Programming Languages</h2>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=python&logoColor=white" />
@@ -60,42 +68,26 @@
 
 <h2>📊 Badges & Stats</h2>
 
-<a href="https://solved.ac/taegeong">
-	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" />
+<!-- solved.ac BOJ 티어 뱃지 (한 줄 독립) -->
+<a href="https://solved.ac/taegeong" target="_blank">
+  <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" alt="solved.ac tier" />
 </a>
 
-<a href="https://github.com/taegyeong0225">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegyeong0225&count_bg=%23F9A2A2&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-</a>
+<!-- 가로 정렬된 GitHub 카드 2개 -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true&theme=bright" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225&layout=compact&theme=bright" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/seondal">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" />
-</a>
 
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taegyeong0225&theme=whatsapp-light2&border_radius=4&background=40%2CEBEBEB%2CEBABB2" alt="GitHub Streak" /></a> --> 
 
-
-<!-- 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/taegyeong0225?pet-id=2"
-    width="600"
-    height="120"
-  />
-</a> -->
-
-<!-- about me -->
-   <div align="center">
-	<br> 🎳 About Me 🎳 <br>
-    <a class="insta" href="https://www.instagram.com/taegyeong0225">
-        <img src="https://img.shields.io/badge/instagram-pink?style=flat&logo=instagram&logoColor=white"/>
-    </a>
-    <!-- email -->
-    <a class="email" href="202244042@itc.ac.kr">
-        <img src="https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white"/>
-    </a> <br>
-    <!-- attribute -->
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taegyeong0225&theme=whatsapp-light2&border_radius=4&background=40%2CEBEBEB%2CEBABB2" alt="GitHub Streak" /></a>
-</div>
 
 <!-- snake -->
 <div align="center" style="text-align: center;">
@@ -106,20 +98,17 @@
   </picture>
 </div>
 
-<a href="https://github.com/taegyeong0225/github-readme-activity-graph">
+<!-- 깃허브 뱃지 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taegeong)](https://solved.ac/taegeong/)
+<a href="https://github.com/seondal"><img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm" alt="GitHub"/></a> -->
+
+<!-- 깃허브 접속 캘린더 박스 & github tearbox -->
+<!-- <a href="https://github.com/taegyeong0225/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=taegyeong0225&bg_color=ffc0cb&color=000000&line=ffffff&point=ffa3b4" alt="taegyeong's github activity graph">
-    </a>
+</a> -->
 
 
-<!-- 깃허브 접속 캘린더 박스 & github tearbox & github stat  -->
-<!-- <div align="center"> --> 
-<!-- <a href="https://github.com/seondal"><img src="http://mazandi.herokuapp.com/api?handle=taegeong&theme=warm" alt="GitHub"/></a> -->
-<!-- <a href="https://solved.ac/taegeong"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taegeong" alt="solved.ac tier"/></a> -->
-<!--	<img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true" alt="GitHub Stats"/> -->
 
-<!-- 자주쓰는 언어 -->
- 
-<!--	<a href="https://github.com/taegyeong0225/github-readme-stats"> -->
-<!--  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225" alt="Top Languages"/> -->
-<!--	</a> </a></div> -->
+
+
 
