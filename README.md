@@ -6,13 +6,100 @@
 <div align="center">
 
 <h2> 🎳 About Me 🎳 </h2>
-<a class="insta" href="https://www.instagram.com/taegyeong0225">
-	<img src="https://img.shields.io/badge/instagram-pink?style=flat&logo=instagram&logoColor=white"/>
+
+안녕하세요! 데이터 분석가를 희망하는 **고태경**입니다.  <br>
+2004.02.25  <br>
+인하공업전문대학 컴퓨터정보공학과 (전공심화) 졸업 예정   
+
+<!-- GitHub -->
+<a href="https://github.com/taegyeong0225" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
-<a class="email" href="202244042@itc.ac.kr">
-	<img src="https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white"/>
-</a> <br>
-    
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/고태경-고-4902aa2a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<!-- Instagram 
+<a href="https://www.instagram.com/taegyeong0225" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a> -->
+
+<!-- Gmail -->
+<a href="mailto:202244042@itc.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
+
+
+---
+
+### 📑 Portfolio
+
+🔗 [포트폴리오 사이트 바로가기](https://taegyeong0225.github.io/)
+
+---
+
+<h3>📜 자격증</h3>
+
+<table style="border: none; width: 100%; text-align: left;">
+  <thead>
+    <tr style="border: none;">
+      <th style="border: none;">상태</th>
+      <th style="border: none;">자격증명</th>
+      <th style="border: none;">발급기관</th>
+      <th style="border: none;">취득일</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: none;">
+      <td style="border: none;">✅</td>
+      <td style="border: none;">정보처리산업기사</td>
+      <td style="border: none;"><em>한국산업인력공단</em></td>
+      <td style="border: none;"><strong>2024-06-15</strong></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">✅</td>
+      <td style="border: none;">ADsP</td>
+      <td style="border: none;"><em>한국데이터산업진흥원</em></td>
+      <td style="border: none;"><strong>2023-03-25</strong></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">📝</td>
+      <td style="border: none;">정보처리기사 (필기합격)</td>
+      <td style="border: none;"><em>한국산업인력공단</em></td>
+      <td style="border: none;"><strong>2025-02-15</strong></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">📝</td>
+      <td style="border: none;">경영정보시각화능력 (필기합격)</td>
+      <td style="border: none;"><em>대한상공회의소</em></td>
+      <td style="border: none;"><strong>2024-04-20</strong></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">✅</td>
+      <td style="border: none;">SQLD</td>
+      <td style="border: none;"><em>한국데이터산업진흥원</em></td>
+      <td style="border: none;"><strong>2025-04-05</strong></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">📝</td>
+      <td style="border: none;">빅데이터분석기사 (필기합격)</td>
+      <td style="border: none;"><em>한국데이터산업진흥원</em></td>
+      <td style="border: none;"><strong>2025-04-12</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+## 🏅 대외활동
+
+ 🥉 제23회 전국중고생자원봉사대회 – *푸르덴셜사회공헌재단* – **2021-09-06**
+
+
 <h2>💻 Programming Languages</h2>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=python&logoColor=white" />
