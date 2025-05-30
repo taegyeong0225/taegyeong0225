@@ -26,6 +26,59 @@ I'm continuously growing by solving real-world problems and participating in dat
 
 ---
 
+<h3>📜 자격증</h3>
+
+<table style="border: none; width: 100%; text-align: left;">
+  <thead>
+    <tr style="border: none;">
+      <th style="border: none;">자격증명</th>
+      <th style="border: none;">발급기관</th>
+      <th style="border: none;">상태</th>
+      <th style="border: none;">취득일</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: none;">
+      <td style="border: none;">정보처리산업기사</td>
+      <td style="border: none;">한국산업인력공단 (HRD Korea)</td>
+      <td style="border: none;">취득</td>
+      <td style="border: none;">2024.06.15</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">ADsP</td>
+      <td style="border: none;">한국데이터산업진흥원</td>
+      <td style="border: none;">취득</td>
+      <td style="border: none;">2023.03.25</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">정보처리기사</td>
+      <td style="border: none;">한국산업인력공단 (HRD Korea)</td>
+      <td style="border: none;">필기합격</td>
+      <td style="border: none;">2025.02.15</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">경영정보시각화능력</td>
+      <td style="border: none;">대한상공회의소</td>
+      <td style="border: none;">필기합격</td>
+      <td style="border: none;">2024.04.20</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">SQLD</td>
+      <td style="border: none;">한국데이터산업진흥원</td>
+      <td style="border: none;">취득</td>
+      <td style="border: none;">2025.04.05</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;">빅데이터분석기사</td>
+      <td style="border: none;">한국데이터산업진흥원</td>
+      <td style="border: none;">필기합격</td>
+      <td style="border: none;">2025.04.12</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
