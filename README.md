@@ -34,7 +34,6 @@ I'm continuously growing by solving real-world problems and participating in dat
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black&color=yellow" />
 </p>
 
----
 
 ### ⚙️ Backend Frameworks & Platforms
 <p>
@@ -42,7 +41,6 @@ I'm continuously growing by solving real-world problems and participating in dat
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 </p>
 
----
 
 ### 🎨 Frontend Technologies
 <p>
@@ -53,7 +51,6 @@ I'm continuously growing by solving real-world problems and participating in dat
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 </p>
 
----
 
 ### 💾 Databases
 <p>
@@ -63,7 +60,6 @@ I'm continuously growing by solving real-world problems and participating in dat
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 </p>
 
----
 
 ### 🧐 Data & Machine Learning
 <p>
@@ -79,7 +75,6 @@ I'm continuously growing by solving real-world problems and participating in dat
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 </p>
 
----
 
 ### 🛠 Development Tools
 <p>
@@ -96,9 +91,9 @@ I'm continuously growing by solving real-world problems and participating in dat
 
 ### 📊 Badges & Stats
 
-<a href="https://solved.ac/taegeong" target="_blank">
+<!-- <a href="https://solved.ac/taegeong" target="_blank">
   <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" alt="solved.ac tier" />
-</a>
+</a> -->
 
 <table>
   <tr>
