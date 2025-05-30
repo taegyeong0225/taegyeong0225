@@ -3,6 +3,13 @@
 
 ## 🎳 About Me 🎳
 
+고태경  (2004년 2월 25일)
+
+안녕하세요! 데이터를 통해 인사이트를 발견하고, 문제를 해결하는 것을 좋아하는 고태경입니다.  
+컴퓨터공학을 전공하며 데이터 분석, 웹 개발, 머신러닝 프로젝트에 참여했고,  
+끊임없이 배우고 성장하는 데이터 분석가를 목표로 하고 있습니다.
+<!-- 현업 수준의 기술을 쌓기 위해 다양한 자격증과 대회에 도전하고 있습니다.  -->
+
 Hello! I'm **Taegyeong Go**, an aspiring **data analyst** with a strong background in computer science.  
 I enjoy turning data into meaningful insights through hands-on projects, exploratory analysis, and visualization.  
 My academic journey at Inha Technical College has equipped me with a solid foundation in Python, SQL, and data engineering.  
@@ -25,57 +32,20 @@ I'm continuously growing by solving real-world problems and participating in dat
 </a>
 
 ---
+### 🎓 Education
+- 인하공업전문대학 컴퓨터정보공학과 전문학사 졸업 2022.02~2025.02 (4.01 / 4.5)
+- 인하공업전문대학 컴퓨터정보공학과(전공심화) 공학사 졸업예정 2025.03~2026.02
+  
+### 📜 자격증
+- 정보처리산업기사 – 한국산업인력공단 (HRD Korea) – 취득 (2024.06.15)
+- ADsP – 한국데이터산업진흥원 – 취득 (2023.03.25)
+- 정보처리기사 – 한국산업인력공단 (HRD Korea) – 필기합격 (2025.02.15)
+- 경영정보시각화능력 – 대한상공회의소 – 필기합격 (2024.04.20)
+- SQLD – 한국데이터산업진흥원 – 취득 (2025.04.05)
+- 빅데이터분석기사 – 한국데이터산업진흥원 – 필기합격 (2025.04.12)
 
-<h3>📜 자격증</h3>
-
-<table style="border: none; width: 100%; text-align: left;">
-  <thead>
-    <tr style="border: none;">
-      <th style="border: none;">자격증명</th>
-      <th style="border: none;">발급기관</th>
-      <th style="border: none;">상태</th>
-      <th style="border: none;">취득일</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border: none;">
-      <td style="border: none;">정보처리산업기사</td>
-      <td style="border: none;">한국산업인력공단 (HRD Korea)</td>
-      <td style="border: none;">취득</td>
-      <td style="border: none;">2024.06.15</td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none;">ADsP</td>
-      <td style="border: none;">한국데이터산업진흥원</td>
-      <td style="border: none;">취득</td>
-      <td style="border: none;">2023.03.25</td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none;">정보처리기사</td>
-      <td style="border: none;">한국산업인력공단 (HRD Korea)</td>
-      <td style="border: none;">필기합격</td>
-      <td style="border: none;">2025.02.15</td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none;">경영정보시각화능력</td>
-      <td style="border: none;">대한상공회의소</td>
-      <td style="border: none;">필기합격</td>
-      <td style="border: none;">2024.04.20</td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none;">SQLD</td>
-      <td style="border: none;">한국데이터산업진흥원</td>
-      <td style="border: none;">취득</td>
-      <td style="border: none;">2025.04.05</td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none;">빅데이터분석기사</td>
-      <td style="border: none;">한국데이터산업진흥원</td>
-      <td style="border: none;">필기합격</td>
-      <td style="border: none;">2025.04.12</td>
-    </tr>
-  </tbody>
-</table>
+### 🏆 수상경력
+- 제23회 전국중고생자원봉사대회 – 푸르덴셜사회공헌재단 – 2021.09.06
 
 ---
 
