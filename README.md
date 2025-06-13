@@ -16,6 +16,13 @@ My academic journey at Inha Technical College has equipped me with a solid found
 I’ve earned certifications including **ADsP**, **SQLD**, and **Information Processing Industrial Engineer** to strengthen my qualifications.  
 I'm continuously growing by solving real-world problems and participating in data competitions and industry-linked projects.
 
+
+
+### 📬 Contact
+
+- **Gmail**: [202547003@itc.ac.kr](mailto:202547003@itc.ac.kr)  
+- **Naver**: [taegeong@naver.com](mailto:taegeong@naver.com)
+
 <!-- GitHub -->
 <a href="https://github.com/taegyeong0225" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -24,11 +31,6 @@ I'm continuously growing by solving real-world problems and participating in dat
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/%ED%83%9C%EA%B2%BD-%EA%B3%A0-4902aa2a2/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-<!-- Gmail -->
-<a href="mailto:202244042@itc.ac.kr">
-  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
 ---
