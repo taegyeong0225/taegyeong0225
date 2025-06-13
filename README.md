@@ -22,7 +22,7 @@ I'm continuously growing by solving real-world problems and participating in dat
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/%EA%B3%A0%ED%83%9C%EA%B2%BD-%EA%B3%A0-4902aa2a2/" target="_blank">
+<a href="https://www.linkedin.com/in/%ED%83%9C%EA%B2%BD-%EA%B3%A0-4902aa2a2/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
