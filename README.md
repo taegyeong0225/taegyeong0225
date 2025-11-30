@@ -120,25 +120,6 @@ I'm continuously growing by solving real-world problems and participating in dat
 
 ---
 
-### 📊 Badges & Stats
-
-<!-- <a href="https://solved.ac/taegeong" target="_blank">
-  <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=taegeong" alt="solved.ac tier" />
-</a> -->
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=taegyeong0225&show_icons=true&theme=bright" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyeong0225&layout=compact&theme=bright" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
